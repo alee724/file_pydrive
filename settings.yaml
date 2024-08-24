@@ -1,0 +1,6 @@
+client_config_backend: "service"
+service_config: 
+    client_json_file_path: "service-secrets.json"
+    client_user_email: "pydrive2@pydrive-testing-432218.iam.gserviceaccount.com"
+oauth_scope: 
+  - https://www.googleapis.com/auth/drive
